@@ -1,0 +1,1 @@
+#Take roll number like 2024a1r056 and extract admission year, program code, and roll number digits using slicing.
