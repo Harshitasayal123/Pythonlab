@@ -1,0 +1,1 @@
+#write a python to input marks of 10 students. Store only valid marks between 0 and 100 in a list. Skip the invalid marks.

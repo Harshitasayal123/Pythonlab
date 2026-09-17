@@ -1,0 +1,1 @@
+#Write a pyhton program to count how many times a partcular elements appears in a list.
